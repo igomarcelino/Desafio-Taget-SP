@@ -1,0 +1,113 @@
+[
+  {
+    "dia_mes": 1,
+    "dia_semana": "Segunda-feira",
+    "faturamento": 1230.45
+  },
+  {
+    "dia_mes": 2,
+    "dia_semana": "Terça-feira",
+    "faturamento": 1500.00
+  },
+  {
+    "dia_mes": 3,
+    "dia_semana": "Quarta-feira",
+    "faturamento": 1100.75
+  },
+  {
+    "dia_mes": 4,
+    "dia_semana": "Quinta-feira",
+    "faturamento": 980.30
+  },
+  {
+    "dia_mes": 5,
+    "dia_semana": "Sexta-feira",
+    "faturamento": 1600.50
+  },
+  {
+    "dia_mes": 8,
+    "dia_semana": "Segunda-feira",
+    "faturamento": 1400.20
+  },
+  {
+    "dia_mes": 9,
+    "dia_semana": "Terça-feira",
+    "faturamento": 1380.50
+  },
+  {
+    "dia_mes": 10,
+    "dia_semana": "Quarta-feira",
+    "faturamento": 0,
+    "observacao": "Feriado"
+  },
+  {
+    "dia_mes": 11,
+    "dia_semana": "Quinta-feira",
+    "faturamento": 1200.85
+  },
+  {
+    "dia_mes": 12,
+    "dia_semana": "Sexta-feira",
+    "faturamento": 1700.75
+  },
+  {
+    "dia_mes": 15,
+    "dia_semana": "Segunda-feira",
+    "faturamento": 1300.50
+  },
+  {
+    "dia_mes": 16,
+    "dia_semana": "Terça-feira",
+    "faturamento": 1430.60
+  },
+  {
+    "dia_mes": 17,
+    "dia_semana": "Quarta-feira",
+    "faturamento": 1190.00
+  },
+  {
+    "dia_mes": 18,
+    "dia_semana": "Quinta-feira",
+    "faturamento": 980.40
+  },
+  {
+    "dia_mes": 19,
+    "dia_semana": "Sexta-feira",
+    "faturamento": 1580.90
+  },
+  {
+    "dia_mes": 22,
+    "dia_semana": "Segunda-feira",
+    "faturamento": 1340.10
+  },
+  {
+    "dia_mes": 23,
+    "dia_semana": "Terça-feira",
+    "faturamento": 1480.75
+  },
+  {
+    "dia_mes": 24,
+    "dia_semana": "Quarta-feira",
+    "faturamento": 1200.50
+  },
+  {
+    "dia_mes": 25,
+    "dia_semana": "Quinta-feira",
+    "faturamento": 1020.35
+  },
+  {
+    "dia_mes": 26,
+    "dia_semana": "Sexta-feira",
+    "faturamento": 1690.85
+  },
+  {
+    "dia_mes": 29,
+    "dia_semana": "Segunda-feira",
+    "faturamento": 1300.00
+  },
+  {
+    "dia_mes": 30,
+    "dia_semana": "Terça-feira",
+    "faturamento": 1500.60
+  }
+]
