@@ -45,7 +45,7 @@ Abaixo segue a resposta detalhada
 
 IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 
-Resposta: [Link do programga]()
+Resposta: [Link do programga](/src/github/com/igomarcelino/VerificaFibonaci)
 ##
 
 3) Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
@@ -59,7 +59,7 @@ b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Est
 
 &nbsp;
 
-Resposta: [link do programa]()
+Resposta: [link do programa](/src/github/com/igomarcelino/faturamentoMensal)
 
 ##
 
@@ -74,7 +74,7 @@ Escreva um programa na linguagem que desejar onde calcule o percentual de repres
 
 &nbsp;
 
-Resposta: [Link do programa]()
+Resposta: [Link do programa](/src/github/com/igomarcelino/FaturamentoPorEstado)
  5) Escreva um programa que inverta os caracteres de um string.
 
 IMPORTANTE:
@@ -85,4 +85,4 @@ NÃO SE ESQUEÇA DE INSERIR O LINK DO SEU REPOSITÓRIO NO GITHUB COM O CÓDIGO F
 
 &nbsp;
 
-Resposta [Link do programa]()
+Resposta [Link do programa](/src/github/com/igomarcelino/InvertendoString)
