@@ -74,6 +74,7 @@ Escreva um programa na linguagem que desejar onde calcule o percentual de repres
 
 &nbsp;
 
+##
 Resposta: [Link do programa](/src/github/com/igomarcelino/FaturamentoPorEstado)
  5) Escreva um programa que inverta os caracteres de um string.
 
